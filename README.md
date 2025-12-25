@@ -1,7 +1,7 @@
 # TiraRTL
 
 **TiraRTL** is a personal collection of reusable **RTL-level Verilog HDL modules** designed for digital design, FPGA, and VLSI projects.  
-The goal of this repository is to provide **clean, well-structured, and tested Verilog IP blocks** that can be reused across multiple projects.
+The goal of this repository is to provide **clean, well-structured, and tested Verilog modules** that can be reused across multiple projects.
 
 ---
 
