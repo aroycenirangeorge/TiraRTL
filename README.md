@@ -1,4 +1,4 @@
-# 🔧 TiraRTL
+# TiraRTL
 
 **TiraRTL** is a personal collection of reusable **RTL-level Verilog HDL modules** developed for **digital design, FPGA, and VLSI projects**.
 
